@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "250727653884",
+    "firebase_url": "https://smart-mini-vivarium-default-rtdb.firebaseio.com",
+    "project_id": "smart-mini-vivarium",
+    "storage_bucket": "smart-mini-vivarium.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250727653884:android:17d0e5fc6f2e5721011279",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250727653884-dve3g0arvlfbk68o0ippkh7217oi36th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9c9RCftv4Dv6oQD7d52axNSh3M0Rhus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250727653884-dve3g0arvlfbk68o0ippkh7217oi36th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250727653884:android:b1581bd0ab67a1de011279",
+        "android_client_info": {
+          "package_name": "com.example.tank_alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250727653884-dve3g0arvlfbk68o0ippkh7217oi36th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9c9RCftv4Dv6oQD7d52axNSh3M0Rhus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250727653884-dve3g0arvlfbk68o0ippkh7217oi36th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250727653884:android:aa34cf71a16c52be011279",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250727653884-dve3g0arvlfbk68o0ippkh7217oi36th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr9c9RCftv4Dv6oQD7d52axNSh3M0Rhus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250727653884-dve3g0arvlfbk68o0ippkh7217oi36th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
